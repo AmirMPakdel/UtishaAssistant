@@ -1,0 +1,3 @@
+rootProject.name = 'UtishaAssistant'
+
+include ':app'
