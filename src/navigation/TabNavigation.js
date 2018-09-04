@@ -37,7 +37,8 @@ export default TabNavigator = createTabNavigator(
         tabBarPosition:'bottom',
 
         navigationOptions:{
-
-        }
+            
+        },
+        
     }
 )

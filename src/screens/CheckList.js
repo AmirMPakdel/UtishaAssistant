@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet, View, Text} from 'react-native';
-
+import Colors from '../Colors';
 export default class CheckList extends React.Component{
 
     render(){
@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
       flex: 1,
       justifyContent:'center',
       alignItems:'center',
-      backgroundColor: '#f2f2f2',
+      backgroundColor: Colors.Whitebackground,
     },
   
   });
